@@ -1,6 +1,6 @@
-package test_1;
+package OOPConcepts1;
 
-public class DataTypes {
+public class FunctionsInJava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
