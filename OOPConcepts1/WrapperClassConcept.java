@@ -22,6 +22,8 @@ public class WrapperClassConcept {
 		boolean b = Boolean.parseBoolean(k);
 		System.out.println(b);
 		
+		// Check why there is no conversion from String to Character.
+		
 		//Integer to String
 		int j = 200;
 		String s = String.valueOf(j); //"200"
