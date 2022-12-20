@@ -6,6 +6,7 @@ public class TestCar {
 		
 		// static polymorphism OR compile time polymorphism 
 		// polymorphism means one to many
+		// this is just a random comment
 		BMW b = new BMW();
 		b.start(); // If child class and parent class have same method, child class will be given preference.
 		b.stop();
