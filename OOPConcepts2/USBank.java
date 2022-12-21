@@ -12,7 +12,7 @@ public interface USBank { // in interface we only declare the method, we don't w
 	public void transferMoney();
 	
 	// in interface, we can declare variables, variables are by default static in nature
-	// value of variables will not be changed
+	// value of variables will not be changed, it is final/constant in nature
 	// no static method in interface
 	// no main method in interface
 	// we cannot create the object of interface - interface is abstract in nature
